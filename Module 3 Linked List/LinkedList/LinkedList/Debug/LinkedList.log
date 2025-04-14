@@ -1,0 +1,5 @@
+﻿  CSVparser.cpp
+  LinkedList.cpp
+U:\LinkedList\LinkedList\LinkedList.cpp(315,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LinkedList.vcxproj -> U:\LinkedList\LinkedList\Debug\LinkedList.exe

@@ -1,0 +1,5 @@
+﻿  VectorSorting.cpp
+U:\VectorSorting\VectorSorting\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+U:\VectorSorting\VectorSorting\VectorSorting.cpp(199,9): warning C4101: 'min': unreferenced local variable
+U:\VectorSorting\VectorSorting\VectorSorting.cpp(294,31): warning C4018: '<': signed/unsigned mismatch
+  VectorSorting.vcxproj -> U:\VectorSorting\VectorSorting\Debug\VectorSorting.exe

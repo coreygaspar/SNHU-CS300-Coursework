@@ -1,0 +1,2 @@
+U:\VectorSorting\VectorSorting\Debug\VectorSorting.exe
+U:\VectorSorting\VectorSorting\Debug\VectorSorting.pdb

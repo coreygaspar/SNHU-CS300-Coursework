@@ -1,0 +1,7 @@
+﻿  ABCUProgram.cpp
+U:\CoreyGasparProject2\CoreyGasparProject2\ABCUProgram.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+U:\CoreyGasparProject2\CoreyGasparProject2\ABCUProgram.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+U:\CoreyGasparProject2\CoreyGasparProject2\ABCUProgram.cpp(103,22): warning C4018: '<': signed/unsigned mismatch
+U:\CoreyGasparProject2\CoreyGasparProject2\ABCUProgram.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+U:\CoreyGasparProject2\CoreyGasparProject2\ABCUProgram.cpp(147,21): warning C4018: '<': signed/unsigned mismatch
+  CoreyGasparProject2.vcxproj -> U:\CoreyGasparProject2\CoreyGasparProject2\Debug\CoreyGasparProject2.exe
